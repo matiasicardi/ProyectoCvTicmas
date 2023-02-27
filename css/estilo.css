@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(216, 227, 248);
+}
+
+.imagenHeader{
+    text-align: center;
+}
+
+section{
+    margin: 10px;
+    border: 5px solid;
+    border-color: rgb(250, 151, 151);
+}
+
+h5{
+    text-decoration: underline;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+footer{
+    height: 20px;
+    text-align: center;
+}
+
+footer div a{
+    margin-inline: 10px;
+}
